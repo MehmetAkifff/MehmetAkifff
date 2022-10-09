@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehmetAkifff
 - 👀 I’m interested in Mobile Developing
-- 🌱 I’m currently learning Data Analysing
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on my good friends and colleague
 - 📫 You can reach me from instagram: makif1_ e-mail:makifergn@gmail.com
 
